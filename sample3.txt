@@ -1,0 +1,13 @@
+Time after compression is Sun Mar  5 10:21:01 2017
+after compress, opsize is 457
+Size of input file is 541
+Time before call is Sun Mar  5 10:21:01 2017
+input size is 541
+Time after call is Sun Mar  5 10:21:01 2017
+opsize is 0
+inside thread input size is 541
+Client : Server ready to take the input
+Client got sem
+wait for server to release sem
+Client : Server has placed the compressed file in the shared memory and size is 457
+Size of compressed file: 457
